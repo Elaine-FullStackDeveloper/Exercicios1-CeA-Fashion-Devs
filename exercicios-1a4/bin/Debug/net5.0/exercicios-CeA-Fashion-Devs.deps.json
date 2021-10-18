@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "exercicios-CeA-Fashion-Devs/1.0.0": {
+        "runtime": {
+          "exercicios-CeA-Fashion-Devs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicios-CeA-Fashion-Devs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

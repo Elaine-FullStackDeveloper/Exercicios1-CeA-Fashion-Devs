@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/elaine/Área de Trabalho/C&A Fashion Devs/Exercicios-CeA-Fashion-Devs-V1/exercicio5/exercicio5a.csproj": {}
+  },
+  "projects": {
+    "/home/elaine/Área de Trabalho/C&A Fashion Devs/Exercicios-CeA-Fashion-Devs-V1/exercicio5/exercicio5a.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/elaine/Área de Trabalho/C&A Fashion Devs/Exercicios-CeA-Fashion-Devs-V1/exercicio5/exercicio5a.csproj",
+        "projectName": "exercicio5a",
+        "projectPath": "/home/elaine/Área de Trabalho/C&A Fashion Devs/Exercicios-CeA-Fashion-Devs-V1/exercicio5/exercicio5a.csproj",
+        "packagesPath": "/home/elaine/.nuget/packages/",
+        "outputPath": "/home/elaine/Área de Trabalho/C&A Fashion Devs/Exercicios-CeA-Fashion-Devs-V1/exercicio5/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/elaine/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
